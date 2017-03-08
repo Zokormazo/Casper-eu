@@ -1,0 +1,10 @@
+<nav class="pagination" role="navigation">
+    {{#if prev}}
+        <a class="newer-posts" href="{{page_url prev}}">&larr; Post berriagoak</a>
+    {{/if}}
+    <span class="page-number">{{page}}/{{pages}}</span>
+    {{#if next}}
+        <a class="older-posts" href="{{page_url next}}">Post zaharragoak &rarr;</a>
+    {{/if}}
+</nav>
+
