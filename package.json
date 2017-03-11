@@ -1,6 +1,6 @@
 {
-    "name": "casper",
-    "description": "The default personal blogging theme for Ghost. Beautiful, minimal and responsive.",
+    "name": "casper-eu",
+    "description": "Basque translation of the default personal blogging theme for Ghost. Beautiful, minimal and responsive.",
     "demo": "https://demo.ghost.io",
     "version": "1.3.6",
     "engines": {
@@ -12,9 +12,9 @@
         "mobile": "assets/screenshot-mobile.jpg"
     },
     "author": {
-        "name": "Ghost Foundation",
-        "email": "hello@ghost.org",
-        "url": "https://ghost.org"
+        "name": "Julen Landa Alustiza",
+        "email": "hello@julenlanda.com",
+        "url": "https://www.julenlanda.com"
     },
     "gpm": {
         "type": "theme",
@@ -29,8 +29,8 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/TryGhost/Casper.git"
+        "url": "https://github.com/Zokormazo/Casper-eu"
     },
-    "bugs": "https://github.com/TryGhost/Casper/issues",
-    "contributors": "https://github.com/TryGhost/Casper/graphs/contributors"
+    "bugs": "https://github.com/Zokormazo/Casper-eu/issues",
+    "contributors": "https://github.com/Zokormazo/Casper-eu/graphs/contributors"
 }

@@ -17,7 +17,7 @@
                 {{#if description}}
                     {{description}}
                 {{else}}
-                    {{../pagination.total}} post-eko kolekzioa
+                    {{plural ../pagination.total empty='bilduma hutsa' singular='post bateko bilduma' plural='% posteko bilduma'}}
                 {{/if}}
             </h2>
         </div>
